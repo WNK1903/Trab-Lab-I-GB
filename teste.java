@@ -5,6 +5,7 @@ public class teste{
     
       Agencia agencia = new Agencia(10);
       agencia.menuDeTransacoes();
+      agencia.menuDeTransacoes();
     }
     
     
